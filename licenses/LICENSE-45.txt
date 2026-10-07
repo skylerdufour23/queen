@@ -1,0 +1,5 @@
+MIT License
+
+Copyright (c) 2026 Legacy Converter Core 45
+
+Permission is hereby granted, free of charge...
